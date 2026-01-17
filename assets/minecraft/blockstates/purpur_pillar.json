@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "block/purpur_pillar_x"
+    },
+    "axis=y": {
+      "model": "block/purpur_pillar"
+    },
+    "axis=z": {
+      "model": "block/purpur_pillar_z"
+    }
+  }
+}

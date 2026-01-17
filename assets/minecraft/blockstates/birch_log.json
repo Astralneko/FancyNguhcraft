@@ -1,0 +1,19 @@
+{
+  "variants": {
+		"axis=x":	[
+					{ "model": "minecraft:block/birch_log0", "weight":100, "x": 90, "y": 90 },
+					{ "model": "minecraft:block/birch_log1", "weight":10,  "x": 90, "y": 90 },
+					{ "model": "minecraft:block/birch_log2", "weight":10,  "x": 90, "y": 90 }
+	],
+		"axis=y":	[
+					{ "model": "minecraft:block/birch_log0", "weight":100 },
+					{ "model": "minecraft:block/birch_log1", "weight":100 },
+					{ "model": "minecraft:block/birch_log2", "weight":10  }
+	],
+		"axis=z": 	[
+					{ "model": "minecraft:block/birch_log0", "weight":100, "x": 90 },
+					{ "model": "minecraft:block/birch_log1", "weight":10,  "x": 90 },
+					{ "model": "minecraft:block/birch_log2", "weight":10,  "x": 90 }
+	]
+  }
+}

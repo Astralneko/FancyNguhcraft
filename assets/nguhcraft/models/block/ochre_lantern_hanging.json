@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_hanging_lantern",
+	"textures": {
+	  "hanging_lantern": "nguhcraft:block/ochre_lantern",
+	  "particle": "nguhcraft:block/ochre_lantern"
+	}
+}

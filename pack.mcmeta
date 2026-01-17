@@ -1,0 +1,38 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "Based on 1.34.0 - Made by Astaryuu"
+  },
+  "language": {
+	"roka": {
+		"name": "Rokadong",
+		"region": "Rauratoshan",
+		"bidirectional": false
+	},
+	"krtl": {
+		"name": "dang Kailitelak",
+		"region": "Kailitelak",
+		"bidirectional": false
+	},
+	"lida": {
+		"name": "Liðakuin",
+		"region": "Fennril",
+		"bidirectional": false
+	},
+	"debz": {
+		"name": "Debazi",
+		"region": "Debaz",
+		"bidirectional": false
+	},
+	"hltz": {
+		"name": "Haltzeonian",
+		"region": "Kardon",
+		"bidirectional": false
+	},
+	"lunr": {
+		"name": "Tukǝsaɟɟɇmga",
+		"region": "Tukisagya",
+		"bidirectional": false
+	}
+  }
+}
