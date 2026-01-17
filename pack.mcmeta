@@ -4,34 +4,39 @@
     "description": "Based on 1.34.0 - Made by Astaryuu"
   },
   "language": {
-	"roka": {
+	"anrdg-latn": {
 		"name": "Rokadong",
 		"region": "Rauratoshan",
 		"bidirectional": false
 	},
-	"krtl": {
+	"anrdg": {
+		"name": "󰢗󰝗",
+		"region": "󰟉 󰜅󰝃",
+		"bidirectional": false
+	},
+	"anktl": {
 		"name": "dang Kailitelak",
 		"region": "Kailitelak",
 		"bidirectional": false
 	},
-	"lida": {
+	"anldk": {
 		"name": "Liðakuin",
 		"region": "Fennril",
 		"bidirectional": false
 	},
-	"debz": {
+	"andbz": {
 		"name": "Debazi",
 		"region": "Debaz",
 		"bidirectional": false
 	},
-	"hltz": {
+	"anhtz": {
 		"name": "Haltzeonian",
-		"region": "Kardon",
+		"region": "New Maeksikao",
 		"bidirectional": false
 	},
-	"lunr": {
+	"anlnr": {
 		"name": "Tukǝsaɟɟɇmga",
-		"region": "Tukisagya",
+		"region": "New Maeksikao",
 		"bidirectional": false
 	}
   }
