@@ -5985,13 +5985,8 @@
   "resourcePack.vanilla.name": "Default",
   "screenshot.failure": "Couldn't save screenshot: %s",
   "screenshot.success": "Saved screenshot as %s",
-<<<<<<< Updated upstream
   "selectServer.add": "Sakar jantenyúla",
   "selectServer.defaultName": "Jantenyúla Minecraft",
-=======
-  "selectServer.add": "Add Server",
-  "selectServer.defaultName": "Minecraft Server",
->>>>>>> Stashed changes
   "selectServer.delete": "Afukar",
   "selectServer.deleteButton": "Afukar",
   "selectServer.deleteQuestion": "Are you sure you want to remove this server?",
