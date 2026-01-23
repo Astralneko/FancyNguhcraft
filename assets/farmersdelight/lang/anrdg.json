@@ -96,7 +96,7 @@
   "item.farmersdelight.tomato": "Tomato",
   "item.farmersdelight.cabbage": "Cabbage",
   "item.farmersdelight.onion": "Onion",
-  "item.farmersdelight.rice": "Céla",
+  "item.farmersdelight.rice": "󰟴",
   "item.farmersdelight.cabbage_seeds": "Cabbage Seeds",
   "item.farmersdelight.tomato_seeds": "Tomato Seeds",
   "item.farmersdelight.rice_panicle": "Rice Panicle",
@@ -145,10 +145,10 @@
   "item.farmersdelight.earthworm": "Earthworm",
 
   "item.farmersdelight.flint_knife": "Flint Knife",
-  "item.farmersdelight.iron_knife": "Bakal iserak",
-  "item.farmersdelight.golden_knife": "Bakal ikaná",
-  "item.farmersdelight.diamond_knife": "Bakal to astelis",
-  "item.farmersdelight.netherite_knife": "Bakal to Néðerata",
+  "item.farmersdelight.iron_knife": " 󰜁󰟋",
+  "item.farmersdelight.golden_knife": " 󰜁󰡀",
+  "item.farmersdelight.diamond_knife": " 󰝃 󰟑󰜿󰡽",
+  "item.farmersdelight.netherite_knife": " 󰝃 󰡄󰣷",
 
   "item.farmersdelight.barbecue_stick": "Barbecue on a Stick",
   "item.farmersdelight.egg_sandwich": "Egg Sandwich",
