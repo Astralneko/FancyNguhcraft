@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_lantern",
+	"textures": {
+	  "lantern": "nguhcraft:block/azure_lantern",
+	  "particle": "nguhcraft:block/azure_lantern"
+	}
+}
