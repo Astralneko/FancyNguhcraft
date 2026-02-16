@@ -224,6 +224,7 @@
     "item.nguhcraft.ancient_drop_of_cherry": "Ancient Drop of Cherry",
     "item.nguhcraft.atlantic_armour_trim_smithing_template": "Atlantic Armor Trim",
     "item.nguhcraft.cenrail_armour_trim_smithing_template": "Cenrail Armor Trim",
+    "item.nguhcraft.cherry": "󰢓",
     "item.nguhcraft.grape_juice": "Grape Juice",
     "item.nguhcraft.grape_leaf": "Grape Leaf",
     "item.nguhcraft.grape_seeds": "Grape Seeds",
@@ -293,6 +294,7 @@
 
     "tag.item.nguhcraft.repairs_amethyst_armour": "Repairs amethyst armour and tools",
     "tag.item.nguhcraft.tinted_oak_logs": "󰢗󰢗 󰝃 󰠮 󰡾",
+    "tag.item.nguhcraft.froglights_craftable_to_cleansing": "Froglights craftable to cleansing",
 
     "trim_pattern.nguhcraft.atlantic": "Atlantic Armor Trim",
     "trim_pattern.nguhcraft.cenrail": "Cenrail Armor Trim",
